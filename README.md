@@ -13,6 +13,8 @@ Technologies Used
 Java – Application logic
 XML – User Interface design
 Android Studio – Development environment
+
+
 Project Structure
 RandomQuoteGenerator/
 │
@@ -26,6 +28,8 @@ RandomQuoteGenerator/
 │   └── build.gradle
 │
 └── README.md
+
+
 How It Works
 Launch the application.
 Tap the Generate Quote button.
